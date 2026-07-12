@@ -1,0 +1,24 @@
+# Python virtual environments
+pdfExtractor/
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local outputs and generated files
+resume_text.txt
+output.pdf
+
+# Environment files containing API keys
+.env
+.env.local
+.env.*.local
+
+# IDE configurations
+.vscode/
+.idea/
